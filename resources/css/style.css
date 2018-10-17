@@ -5,6 +5,21 @@ h1  {
   color: white;
   text-align: center;
 }
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size 42px;
+  color: white;
+}
 body {
   background-color: black;
+  text-align: center;
+}
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+.copyright {
+  text-align: right;
+  color: gray;
 }
