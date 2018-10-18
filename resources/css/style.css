@@ -23,3 +23,9 @@ body {
   text-align: right;
   color: gray;
 }
+p {
+  color: gray;
+  font-family: Verdana;
+  font-size: 21px;
+  
+}
